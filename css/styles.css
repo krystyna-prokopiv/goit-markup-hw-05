@@ -754,7 +754,7 @@ img {
         height: 16px;
         border-radius: 2px;
         border: 1px solid rgba(46, 47, 66, 0.4);
-        display: inline-block;
+        display: inline-flex;
         margin-right: 8px;
         display: inline-flex;
         align-items: center;
